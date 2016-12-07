@@ -6,3 +6,7 @@ thing's I've read or intend to.
 * [Wei Dai's Home Page](http://www.weidai.com/)
  * [bmoney](http://www.weidai.com/bmoney.txt)
 * [Satoshi Nakamoto's Page](http://p2pfoundation.ning.com/profile/SatoshiNakamoto)
+
+## interactive things
+
+* [Shapecatcher](http://shapecatcher.com/)
